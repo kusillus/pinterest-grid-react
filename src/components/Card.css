@@ -1,0 +1,16 @@
+.card__container{
+    background-color: blueviolet;
+    margin-bottom: 1rem;
+}
+
+.card__image{
+    width: 100%;
+    object-fit: cover;
+}
+.card__data{
+    display: flex;
+    flex-flow: row wrap;
+}
+.card__data span{
+    width: 100%;
+}

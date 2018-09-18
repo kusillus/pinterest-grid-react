@@ -1,0 +1,9 @@
+.container{
+    background: red;
+    margin: 0 auto;
+    grid-gap: 10px;
+    /* column-width: 150px; */
+}
+.card{
+    background-color: aquamarine;
+}
