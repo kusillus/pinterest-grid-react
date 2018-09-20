@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar.css';
+import './Navbar.scss';
 import pokeball from '../media/pokeball.svg';
 
 const Navbar  = () => (
@@ -12,5 +12,4 @@ const Navbar  = () => (
         </a>
     </nav>
 )
-
 export default Navbar;

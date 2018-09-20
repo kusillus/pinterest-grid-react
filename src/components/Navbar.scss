@@ -1,0 +1,11 @@
+.navbar{
+    background: linear-gradient(to right, rgb(79, 75, 255), rgb(25, 140, 255));
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 17px;
+    align-items: center;
+    .title{
+        font-weight: 600;
+    }
+}
